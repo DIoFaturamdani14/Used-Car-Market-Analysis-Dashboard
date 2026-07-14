@@ -29,9 +29,6 @@ Web Scraping
 Data Cleaning
       │
       ▼
-Feature Engineering
-      │
-      ▼
 K-Means Clustering
       │
       ▼
