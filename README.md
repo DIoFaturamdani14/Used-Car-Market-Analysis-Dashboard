@@ -72,7 +72,7 @@ Website/
 
 ## Dashboard Preview
 
-![Dashboard Preview](images/dashboard-preview.png)
+![Dashboard Preview](dashboard-preview.png)
 
 ---
 
