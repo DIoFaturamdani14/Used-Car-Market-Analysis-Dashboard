@@ -1,6 +1,6 @@
 # Used Car Market Analysis Dashboard (Greater Jabodetabek)
 
-Business Intelligence Dashboard for analyzing the used car market based on OLX advertisement data in the Greater Jakarta area (Jakarta, Bogor, Depok, Tangerang, and Bekasi).
+Business Intelligence Dashboard for analyzing the used car market based on OLX advertisement data in the Greater Jabodetabek area (Jakarta, Bogor, Depok, Tangerang, and Bekasi).
 
 ## Project Overview
 
