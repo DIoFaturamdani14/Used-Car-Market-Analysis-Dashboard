@@ -72,7 +72,7 @@ Website/
 
 ## Dashboard Preview
 
-*(Tambahkan screenshot dashboard di sini nanti.)*
+<img src="docs/Dashboard-OLX.jpeg" width="100%">
 
 ---
 
